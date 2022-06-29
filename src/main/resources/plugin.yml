@@ -1,0 +1,10 @@
+name: EchoBan
+version: '${project.version}'
+main: luxielx.echoban.EchoBan
+api-version: 1.18
+authors: [ Luxielx ]
+description: Echo Ban 
+commands:
+  punish:
+  report:
+  reportgui:
